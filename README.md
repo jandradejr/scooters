@@ -1,0 +1,2 @@
+# scooters
+GitHub Pages
